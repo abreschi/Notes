@@ -7,8 +7,10 @@ Welcome to Stats's notes!
 =================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+  :maxdepth: 2
+  :caption: Contents:
+
+  random_variables
 
 
 
